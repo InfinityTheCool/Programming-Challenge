@@ -7,7 +7,7 @@ and most common HTTP headers.
 
 # Written by Dennis Parkman
 # 3/30/2021
-# Internship Technical Challenge
+# Technical Challenge
 
 # Imports
 import json
