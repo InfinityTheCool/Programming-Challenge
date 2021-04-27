@@ -1,6 +1,0 @@
-{"totalDevices": 75, "commonServices": [["80/tcp", 67], ["443/tcp", 36], ["554/t
-cp", 28], ["22/tcp", 17], ["1900/udp", 16], ["3702/udp", 16], ["5060/udp", 14],
-["23/tcp", 12], ["49152/tcp", 11], ["161/udp", 11]], "bannerMedianLength": 510,
-"bannerAverageLength": 406.84444444444443, "bannerNinetiethPercentileLength": 51
-2, "commonHeaders": [["content-type", 76], ["server", 65], ["content-length", 51
-], ["date", 49], ["connection", 46]]}
